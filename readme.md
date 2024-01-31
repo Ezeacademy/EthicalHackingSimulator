@@ -1,5 +1,5 @@
 
-# Project Title
+# EthicalHackingSimulator
 Warning: This program is designed for entertainment purposes only and should be used responsibly. Do not use this script to deceive or harm others. Always ensure your actions adhere to ethical standards.
 
 Overview
